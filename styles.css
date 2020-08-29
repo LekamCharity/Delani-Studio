@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#about {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+#nifa {
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+}
+#service {
+    background-size: cover;
+    margin-bottom: 50px;
+    padding-top: 120px;
+    padding-bottom: 80px;
+    text-align: center;
+    color: white;
+}
+#homep {
+    padding-top: 14%;
+    margin-bottom: 9%;
+}
+h6 {
+    height: 1vh;
+}
+.para {
+    font-size: cal(1vh + 1vw + .5vmin);
+}
+#about,
+#service,
+#amaze,
+.specific,
+#contacts,
+.footer p {
+    font-family: Open + 'Sans';
+}
+.col-one {
+    width: 100%;
+    color: wheat;
+    font-family: Open+Sans;
+    font-size: calc(1vw + 1vh + .5vmin);
+    font-size: 1.1em;
+}
+h1 {
+    font-family: Open + 'sans';
+}
+.card-deck {
+    padding: 1% 4%;
+    }
+.specific {
+    margin-bottom: 4%;
+}
+.image1 {
+    padding-top: 9%;
+    margin-bottom: 3%;
+}
+.image2 {
+    margin-top: 20%;
+    padding: 35px 0;
+}
+.sermain {
+    margin-top: 15%;
+}
+.hide {
+    display: none;
+}
+.form-cont input {
+    width: 49%;
+    background: transparent;
+}
+.form-cont textarea {
+    margin-top: 10px;
+    width: 100%;
+    background: transparent;
+}
+#contacts {
+    background-size: cover;
+    padding-top: 100px;
+    margin-bottom: 50px;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10%;
+}
