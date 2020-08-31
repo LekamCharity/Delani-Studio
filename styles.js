@@ -4,7 +4,7 @@ $('.main').click(function () {
 });
 $("button").click(function (any) {
   var client = document.getElementById('nameDetail').value;
-  alert(' Dear ' + ' esteemed ' + name + ' we have received your message. ' + ' Feel free to reach us anytime');
+  alert(' Dear ' + ' esteemed ' + 'welcome' + ' we have received your message. ' + ' Feel free to reach us anytime');
   name.preventDefault();
 });
 $("button").on('click', function () {
