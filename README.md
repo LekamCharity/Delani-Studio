@@ -5,7 +5,7 @@ DELANI STUDIO
 Lekam Charity
 
 ## Description
-Website giving details on Delani Software Developers,The work they do and how user can connect with them.
+This Website is about giving details on Delani Software Developers and the work they do and how user can connect with them.
 
 ## Setup/Installation Requirements
 
