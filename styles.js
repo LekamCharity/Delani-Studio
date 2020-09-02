@@ -1,6 +1,6 @@
-$('.main').click(function () {
-  $(this).children('.hide').slideToggle(1200);
-  $(this).children('.show').toggle(1500);
+$('.image').click(function () {
+  $(this).children('.hide').slideToggle("1200");
+  $(this).children('.show').toggle("1500");
 });
 $("button").click(function (any) {
   var client = document.getElementById('nameDetail').value;
