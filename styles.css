@@ -28,6 +28,12 @@
     padding-top: 14%;
     margin-bottom: 9%;
 }
+#amaze {
+    color:white;
+}
+h2 {
+    color: black;
+}
 h6 {
     height: 1vh;
 }
@@ -67,6 +73,8 @@ h2
 }
 h1 {
     font-family: Open + 'sans';
+    font-weight: bold;
+    color: white;
 }
 .card-deck {
     padding: 1% 4%;
@@ -123,10 +131,14 @@ h1 {
 }
 ::placeholder{
     font-size: 10px;
-    color: wheat;
+    color: white;
 }
 .what {
     margin-bottom: 30px;
+}
+p1 {
+    color: white;
+    font-family: Open + 'sans';
 }
 #meso {
     background-color: transparent;
